@@ -1,3 +1,3 @@
-# BA865-2023
+# BA865-2025
 
-Materials for BA865 Spring '23 - Advanced Analytics I (Introduction to Neural Networks in Python)
+Materials for BA865 Spring '25 - Advanced Analytics (Introduction to Neural Networks in Python)
